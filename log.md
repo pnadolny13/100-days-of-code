@@ -2,7 +2,7 @@
 
 ### Day 0: January 2, 2018
 
-**Today's Progress**: Installed visual studio, learned difference between java applet/servlet/application…JavaScript replaces applets. I then played around with the basic greeting rest API.
+**Today's Progress**: Installed visual studio, researched difference between java applet/servlet/application…it seems like JavaScript replaces applets. I then played around with the basic greeting rest API.
 
 **Thoughts:** I struggled with understanding how to run a rest api outside of eclipse, had to package as a fat jar but still had issues running it as a standalone.
 
