@@ -1,29 +1,29 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: January 2, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Installed visual studio, learned difference between java applet/servlet/application…JavaScript replaces applets. I then played around with the basic greeting rest API.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I struggled with understanding how to run a rest api outside of eclipse, had to package as a fat jar but still had issues running it as a standalone.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Hello World Rest Service](https://github.com/pnadolny13/RestService/commit/5abbca4a0737d6b56772680972fa2ef7a979cba7)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: January 3, 2018
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Today's Progress**: Researched Rest APIs and when you would use them vs frameworks. Angular.js is a front end client-side development tool that can ping a Rest API for backend stuff while Node.js is a server-side Javascript framework/language. 
+I had trouble getting my main to run in the rest service because I moved it to a new directory. Tried updating it to receive bill split info but wasn’t able to test. Instead jumped to Python and wrote a basic calculator that accepts user input to split a bill.
 
 
-### Day 1: June 27, Monday
+**Thoughts**: I had trouble figuring out what to work on, everything seems like a bigger project and requires research. I need to get out of the mind set of pushing code every day and into the set of research and starting somewhere, not pushing bad code.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Link(s) to work**: [Bill Split Calculator](https://github.com/pnadolny13/Bill-Split-Calculator/commit/8f9fdfbd3429f901b77ae3b57da50eb3d3ba1e29)
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+
+### Day 2: January 4, 2018
+
+**Today's Progress**: Goal is to start a Flask app to accept daily logs through forms, and downloadable. 
+
+**Thoughts** 
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
