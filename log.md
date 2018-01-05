@@ -21,7 +21,7 @@ I had trouble getting my main to run in the rest service because I moved it to a
 
 ### Day 2: January 4, 2018
 
-**Today's Progress**: Researched and started a simple Flask app that was Hello world but now can collect email addresses and display them. Transfered log file to github for simplicity.
+**Today's Progress**: Researched and started a simple Flask app that was Hello world but now can collect email addresses and display them. Transfered log file to github for simplicity. (http://opentechschool.github.io/python-flask/core/data.html)
 
 **Thoughts** Flask is much easier than Django. I would like to create app for inputing these log files so I dont have to come in here every night and manually edit it.
 
