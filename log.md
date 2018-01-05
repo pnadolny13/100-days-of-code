@@ -21,10 +21,9 @@ I had trouble getting my main to run in the rest service because I moved it to a
 
 ### Day 2: January 4, 2018
 
-**Today's Progress**: Goal is to start a Flask app to accept daily logs through forms, and downloadable. 
+**Today's Progress**: Researched and started a simple Flask app that was Hello world but now can collect email addresses and display them. Transfered log file to github for simplicity.
 
-**Thoughts** 
+**Thoughts** Flask is much easier than Django. I would like to create app for inputing these log files so I dont have to come in here every night and manually edit it.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work:**[FirstFlaskApp](https://github.com/pnadolny13/FirstFlaskApp/commit/8a5f42f364e01a1a42bb345c5197df2e92017c86)
+
