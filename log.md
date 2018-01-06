@@ -35,3 +35,12 @@ I had trouble getting my main to run in the rest service because I moved it to a
 **Thoughts** I think this is cool but I will probably have to make it look better and do more validation. Today is a Friday and I got home at 630 so its tough to sit down and code...almost skipped a day but resisted
  
 **Link(s) to work:** [First Flask App -Updated] https://github.com/pnadolny13/FirstFlaskApp/commit/25ac223a79fe5f3fe90162a7779872f2970bbab4
+ 
+ 
+### Day 4: January 06, 2018
+ 
+**Today's Progress**: I updated the 100 days flask app to throw a warning if the day already exists so that I dont have duplicate days. It can be done better but the hack worked. 
+ 
+**Thoughts** Nothing today...not a lot of time to work on this.
+ 
+**Link(s) to work:** NA
