@@ -26,4 +26,12 @@ I had trouble getting my main to run in the rest service because I moved it to a
 **Thoughts** Flask is much easier than Django. I would like to create app for inputing these log files so I dont have to come in here every night and manually edit it.
 
 **Link(s) to work:**[FirstFlaskApp](https://github.com/pnadolny13/FirstFlaskApp/commit/8a5f42f364e01a1a42bb345c5197df2e92017c86)
-
+ 
+ 
+### Day 3: January 05, 2018
+ 
+**Today's Progress**: I updated the Flask form to accept inputs for my 100 days of code log file. It then update the log file in the appropriate format so I can just push to GitHub. I will probably have to limit it so that it restricts me more because I dont want to submit twice in a day.
+ 
+**Thoughts** I think this is cool but I will probably have to make it look better and do more validation. Today is a Friday and I got home at 630 so its tough to sit down and code...almost skipped a day but resisted
+ 
+**Link(s) to work:** [First Flask App -Updated] https://github.com/pnadolny13/FirstFlaskApp/commit/25ac223a79fe5f3fe90162a7779872f2970bbab4
