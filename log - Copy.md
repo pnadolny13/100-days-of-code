@@ -48,8 +48,8 @@ I had trouble getting my main to run in the rest service because I moved it to a
 
 ### Day 5: January 07, 2018
 
-**Today's Progress**: I spent far over 1 hr but I updated the Flask log app with page for viewing full log file, a home page with radio buttons to select an action, a delete today's post button in case it needs to be updated, input page notification for which was the most recent post, removed manual day input so users doesnt mess it up by accident.
+**Today's Progress**: asdfas
 
-**Thoughts** My app is a mess right now because its in one script file with global and local variables mixed around very unorganized. I need to spend time refactoring to make variables more clear. Also debugging in Spyder/Python is different than Eclipse/Java so I need to spend time getting used to it.
+**Thoughts** asdfasdfasdf
 
-**Link(s) to work:** https://github.com/pnadolny13/FirstFlaskApp/commit/d19e4ac97db25875078420ca1275c5effc762515
+**Link(s) to work:** asdfasdfa
