@@ -53,3 +53,12 @@ I had trouble getting my main to run in the rest service because I moved it to a
 **Thoughts** My app is a mess right now because its in one script file with global and local variables mixed around very unorganized. I need to spend time refactoring to make variables more clear. Also debugging in Spyder/Python is different than Eclipse/Java so I need to spend time getting used to it.
 
 **Link(s) to work:** https://github.com/pnadolny13/FirstFlaskApp/commit/d19e4ac97db25875078420ca1275c5effc762515
+
+
+### Day 6: January 09, 2018
+
+**Today's Progress**: I refactored the app to be a little bit more organized. Still all in one app.py so its not totally organized but its a start. I also learned about Flask-Bootstrap to make some of the FE design stuff easier. I implemented a simple nav bar that move around the app easily. Still need to update the content to look better.
+
+**Thoughts** I missed two days because I had a pipe burst and will have to manually update this date. To make up for it, I spent an extra hour today on 1/10 to make up for 1/9...so I'm logging this for 1/9. 
+
+**Link(s) to work:** https://github.com/pnadolny13/FirstFlaskApp/commit/7a36955bebceb1d5e400c793d465e65a360b97bb
