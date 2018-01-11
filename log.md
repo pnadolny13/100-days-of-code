@@ -62,3 +62,12 @@ I had trouble getting my main to run in the rest service because I moved it to a
 **Thoughts** I missed two days because I had a pipe burst and will have to manually update this date. To make up for it, I spent an extra hour today on 1/10 to make up for 1/9...so I'm logging this for 1/9. 
 
 **Link(s) to work:** https://github.com/pnadolny13/FirstFlaskApp/commit/7a36955bebceb1d5e400c793d465e65a360b97bb
+
+
+### Day 7: January 10, 2018
+
+**Today's Progress**: I didnt get a lot done. I spent a long line trying to get a bootstrap template to work. It did but it was only a one pager so it wasnt going to work. Bootstrap is easy until you have to customize it. Rolled back to old code. I researched github integration and their wasnt too much, sounds like it might be tough.
+
+**Thoughts** I had an idea that I could use the bootstrap template to showcase all of the things I do during the 100 days of coding. I could update as I finish projects and write a little description with links to github.
+
+**Link(s) to work:** https://github.com/pnadolny13/FirstFlaskApp/commit/2f8d22b7ccad8cdf63ecd5a4bb50cd604fa04f7f
