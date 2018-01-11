@@ -71,3 +71,12 @@ I had trouble getting my main to run in the rest service because I moved it to a
 **Thoughts** I had an idea that I could use the bootstrap template to showcase all of the things I do during the 100 days of coding. I could update as I finish projects and write a little description with links to github.
 
 **Link(s) to work:** https://github.com/pnadolny13/FirstFlaskApp/commit/2f8d22b7ccad8cdf63ecd5a4bb50cd604fa04f7f
+
+
+### Day 8: January 11, 2018
+
+**Today's Progress**: I worked on the delete log functionality to be able to show the entry you are about to delete, then you can click a delete button. I'm still having trouble with the extra line at the end of the csv after the entry was deleted. It sounds like it is a windows issues, so I need to open/edit as bytes. https://stackoverflow.com/questions/3348460/csv-file-written-with-python-has-blank-lines-between-each-row
+
+**Thoughts** I came to work an hour early to do this. I will probably start doing it everyday. I'm understanding now why Flask is known as a simple framework with many add-ons. It doesnt force you to be as organized as Django does which is better if the app is simple but worse as the app grows.
+
+**Link(s) to work:** https://github.com/pnadolny13/FirstFlaskApp/commit/2460e8c3a74e5feae512d23fd3a5b1f369d3c09d
