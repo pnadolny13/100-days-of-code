@@ -80,3 +80,11 @@ I had trouble getting my main to run in the rest service because I moved it to a
 **Thoughts** I came to work an hour early to do this. I will probably start doing it everyday. I'm understanding now why Flask is known as a simple framework with many add-ons. It doesnt force you to be as organized as Django does which is better if the app is simple but worse as the app grows.
 
 **Link(s) to work:** https://github.com/pnadolny13/FirstFlaskApp/commit/2460e8c3a74e5feae512d23fd3a5b1f369d3c09d
+
+
+### Day 9: January 12, 2018
+
+**Today's Progress**: Today I researched how to create an Alexa skill and created a basic tutorial hello world version. I had to install ngrok and an iphone app to talk to Alexa but it worked and it was awesome. Hoping to convert the sample template to something custom for me to use, like read some local file or something.
+
+**Thoughts** Ngrok blew my mind, now I can run local code and view from anywhere. I viewed my Flask app on my phone to test out how it views as mobile size. Really cool for development.
+**Link(s) to work:** https://github.com/pnadolny13/AlexaSkill_FlaskAsk/commits/master
