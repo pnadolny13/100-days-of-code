@@ -88,3 +88,21 @@ I had trouble getting my main to run in the rest service because I moved it to a
 
 **Thoughts** Ngrok blew my mind, now I can run local code and view from anywhere. I viewed my Flask app on my phone to test out how it views as mobile size. Really cool for development.
 **Link(s) to work:** https://github.com/pnadolny13/AlexaSkill_FlaskAsk/commits/master
+
+
+### Day 10: January 13, 2018
+
+**Today's Progress**: I created my own Alexa skill from the tutorial version I did yesterday. I was able to get it to accept all the group member names and respond back. Now have to start inputting the group members beer count. I dont have dates working either so it just always says 530.
+
+**Thoughts** Alexa skills are really cool and fun to make because it seems like they are hard but they arent and nobody knows that....haha. I'm going to build out this app and see if I can push i to the store.
+
+**Link(s) to work:** https://github.com/pnadolny13/SplitTheBill_AlexaSkill_FlaskAsk
+
+
+### Day 11: January 14, 2018
+
+**Today's Progress**: I updated my Alexa skill to accept 9 people, beer price, tax, tip, and calculate the amount per person and total based on how many everyone had. 2 new intents done for summary and input for prices. Doesnt accept decimal beer price yet, and should let you define whichever inputs you want. Beer, taquitos, zinger, etc. Should be able to add to each instead of overwrite and say everyone had something. 
+
+**Thoughts** Flask Ask is really helpful with the Jinja templates. Building a cool Alexa app is really helping me to get a better understanding of Flask in general. I had a ton of time to work today so I made big progress!! Really fun to make skills.
+
+**Link(s) to work:** https://github.com/pnadolny13/SplitTheBill_AlexaSkill_FlaskAsk/commit/c405e561e06baa2018d6f6a9e205e75339cdf856
