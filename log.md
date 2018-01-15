@@ -106,3 +106,12 @@ I had trouble getting my main to run in the rest service because I moved it to a
 **Thoughts** Flask Ask is really helpful with the Jinja templates. Building a cool Alexa app is really helping me to get a better understanding of Flask in general. I had a ton of time to work today so I made big progress!! Really fun to make skills.
 
 **Link(s) to work:** https://github.com/pnadolny13/SplitTheBill_AlexaSkill_FlaskAsk/commit/c405e561e06baa2018d6f6a9e205e75339cdf856
+
+
+### Day 12: January 15, 2018
+
+**Today's Progress**: I updated the Alexa skill to accept drinks and price inputs. Then they get looked up by name when they say how many drinks someone had. Also added updated totals instead of overwriting. I then spent a bunch of time getting it deployed to an AWS lambda because its free and then i dont need to use ngrok anymore. I had trouble with the deployment part because a utilities.py file was not correct in the zappa deploy. So I found a solution and updated it. It then worked but I still need to test the skill to make sure it works. Didnt want to test in Starbucks lol.
+
+**Thoughts** I worked in a Baltimore Starbucks because the plumber/carpet guys were here. Zappa and AWS lambdas are not that difficult once you do it once. It is also free for like way more than i will use it. I might switch my Django app to Lambdas if thats even possible. Would save some work.
+
+**Link(s) to work:** https://github.com/pnadolny13/SplitTheBill_AlexaSkill_FlaskAsk/commit/b0ff0c9878dc135786be56f0d988554113d31463
