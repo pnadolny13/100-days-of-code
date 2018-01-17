@@ -115,3 +115,12 @@ I had trouble getting my main to run in the rest service because I moved it to a
 **Thoughts** I worked in a Baltimore Starbucks because the plumber/carpet guys were here. Zappa and AWS lambdas are not that difficult once you do it once. It is also free for like way more than i will use it. I might switch my Django app to Lambdas if thats even possible. Would save some work.
 
 **Link(s) to work:** https://github.com/pnadolny13/SplitTheBill_AlexaSkill_FlaskAsk/commit/b0ff0c9878dc135786be56f0d988554113d31463
+
+
+### Day 13: January 16, 2018
+
+**Today's Progress**: I spent all of today trying to deploy this flask app to an aws lambda so that I dont have to keep starting and stopping it on my local. I just realized that I wont be able to update the local log file though so i cant push to github every day.
+
+**Thoughts** I didnt really want to code today. I spent the whole day struggling on some Java stuff and was kind of sick of code for the day. After I get my apps to Lambdas it will be much easier to use and deploy. 
+
+**Link(s) to work:** 
