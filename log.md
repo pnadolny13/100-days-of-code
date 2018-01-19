@@ -124,3 +124,12 @@ I had trouble getting my main to run in the rest service because I moved it to a
 **Thoughts** I didnt really want to code today. I spent the whole day struggling on some Java stuff and was kind of sick of code for the day. After I get my apps to Lambdas it will be much easier to use and deploy. 
 
 **Link(s) to work:** 
+
+
+### Day 14: January 18, 2018
+
+**Today's Progress**: I started researching javascript but its not really anything special. Just need to learn new syntax. I brainstormed more Alexa app ideas. Went to the market place to see where the gaps were. I was able to setup a AWS RDS database and connect to it using python/Flask/Alexa. I think im going to make a movie quotes game, gives a quote and you have to guess the movie. 
+
+**Thoughts** I missed yesterday. I tried to work on stuff but I didnt have any motivation at all. I think its a cool idea that all users of Alexa skill interact with the same database so a "king of the hill" thing could be fun. Everyone has write access and we all fight over who gets their name in there last. Everyone just overwrites each other.
+
+**Link(s) to work:** NA
