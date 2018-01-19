@@ -132,4 +132,4 @@ I had trouble getting my main to run in the rest service because I moved it to a
 
 **Thoughts** I missed yesterday. I tried to work on stuff but I didnt have any motivation at all. I think its a cool idea that all users of Alexa skill interact with the same database so a "king of the hill" thing could be fun. Everyone has write access and we all fight over who gets their name in there last. Everyone just overwrites each other.
 
-**Link(s) to work:** NA
+**Link(s) to work:** https://github.com/pnadolny13/Python_Utility_Scripts/blob/master/connect_mysql.py
