@@ -142,3 +142,12 @@ I had trouble getting my main to run in the rest service because I moved it to a
 **Thoughts** Alexa skills are really quick once you know how to make them. I made this one in about an hour and a half.
 
 **Link(s) to work:** https://github.com/pnadolny13/Alexa_Movie_Quote_Game/commits/master
+
+
+### Day 16: January 21, 2018
+
+**Today's Progress**: Today i deployed the movie app as an AWS Lambda and update the database to hold text instead of varchar. I think ill add some sort of scoring to it so people can get high scores. I also had trouble with re-prompts. 
+
+**Thoughts** I should start on Javascript stuff. 
+
+**Link(s) to work:** 
