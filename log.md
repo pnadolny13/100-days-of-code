@@ -151,3 +151,21 @@ I had trouble getting my main to run in the rest service because I moved it to a
 **Thoughts** I should start on Javascript stuff. 
 
 **Link(s) to work:** 
+
+
+### Day 17: January 22, 2018
+
+**Today's Progress**: I'm submitting this a day late but i spent most of the day learning some basic javascript and getting familiar with Visual Studio. I tried installing NativeScript to develop mobile apps but had some trouble with the install. I didnt push any code because it was just basic hello world apps. 
+
+**Thoughts** Tried using Angular and Django together and wouldnt work which seems obvious now. Angular seems very similar to Django/Flask layouts. Also Javascript is relatively easy to read. 
+
+**Link(s) to work:** NA
+
+
+### Day 18: January 23, 2018
+
+**Today's Progress**: Again submitting a day late but I spent last night and this morning still working on getting setup with javascript. Its overwhelming right now so I think the best route is to take step back and learn basics. I'm going to go through the 30 days of vanilla javascript and CS50 javascript.
+
+**Thoughts** In order to use javascript I feel like i need to know HTML and CSS as well. I should learn all the basics before I start working with a framework like Angular.
+
+**Link(s) to work:** NA
