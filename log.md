@@ -169,3 +169,12 @@ I had trouble getting my main to run in the rest service because I moved it to a
 **Thoughts** In order to use javascript I feel like i need to know HTML and CSS as well. I should learn all the basics before I start working with a framework like Angular.
 
 **Link(s) to work:** NA
+
+
+### Day 19: January 25, 2018
+
+**Today's Progress**: I picked up CodeViz again and added a REST service so you can call it with a web call. Next I want to make a FE to allow you to call the start/stop. I also think instead of logging data to a file, I should embed a REST call to collect calls from methods. It might be a lot a once, so gotta check. No more IOExceptions issues.
+
+**Thoughts** Glad I could connect the REST stuff to CodeViz, it was cool to see it work. Also found out from Python Bytes that CodeViz exists lol...its called Hunter. I will still work on it for practice though. Validates the idea was good. 
+
+**Link(s) to work:** https://github.com/pnadolny13/CodeViz/commit/e12482bd917d5fa7f92ee5a382d1606b34cf4a2c
