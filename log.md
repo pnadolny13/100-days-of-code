@@ -178,3 +178,12 @@ I had trouble getting my main to run in the rest service because I moved it to a
 **Thoughts** Glad I could connect the REST stuff to CodeViz, it was cool to see it work. Also found out from Python Bytes that CodeViz exists lol...its called Hunter. I will still work on it for practice though. Validates the idea was good. 
 
 **Link(s) to work:** https://github.com/pnadolny13/CodeViz/commit/e12482bd917d5fa7f92ee5a382d1606b34cf4a2c
+
+
+### Day 20: January 27, 2018
+
+**Today's Progress**: I setup a web server with my CodeViz app so I can run it in Eclipse. I will add the FE Angular part but I needed the server to test it for now. Did research on Angular and how I will use it.
+
+**Thoughts** I got confused about running spring in eclipse vs in the tomcat server. They are still both on 8080 localhost so whats the difference...
+
+**Link(s) to work:** NA
