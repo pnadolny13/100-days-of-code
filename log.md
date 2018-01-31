@@ -187,3 +187,12 @@ I had trouble getting my main to run in the rest service because I moved it to a
 **Thoughts** I got confused about running spring in eclipse vs in the tomcat server. They are still both on 8080 localhost so whats the difference...
 
 **Link(s) to work:** NA
+
+
+### Day 21: January 30, 2018
+
+**Today's Progress**: I tried to update the movie quotes alexa skill to whisper and do other special voices but it wouldnt work for amazon types, only normal ssml types like loud or high pitch etc. I then re-organized CodeViz...again. So now it has a good directory structure. I was able to run it in eclipse and render the js/html but cant hit the endpoint through the browser, only through postman.
+
+**Thoughts** Spring doesnt need your app to be deployed on a tomcat server, its already baked in, like flask/django's uwsgi. The structure of Java applications and working with Eclipse is much more difficult than Python frameworks. I learned Django really quick, Spring/Angular are harder to learn. I'm not sure what the real advantages are of Java based apps. 
+
+**Link(s) to work:** https://github.com/pnadolny13/CodeViz/commit/e12482bd917d5fa7f92ee5a382d1606b34cf4a2c
