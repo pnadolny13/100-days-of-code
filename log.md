@@ -196,3 +196,12 @@ I had trouble getting my main to run in the rest service because I moved it to a
 **Thoughts** Spring doesnt need your app to be deployed on a tomcat server, its already baked in, like flask/django's uwsgi. The structure of Java applications and working with Eclipse is much more difficult than Python frameworks. I learned Django really quick, Spring/Angular are harder to learn. I'm not sure what the real advantages are of Java based apps. 
 
 **Link(s) to work:** https://github.com/pnadolny13/CodeViz/commit/e12482bd917d5fa7f92ee5a382d1606b34cf4a2c
+
+
+### Day 22: January 31, 2018
+
+**Today's Progress**: Tonight I customized the calls from the FE to hit my Spring back end service. The test worked so I was able to call the backend and receive json back with the windows user name, which can only be determined by the BE!! I then tried adding some other javascript functionality like swapping images and click events but the swap was only working sometimes.
+
+**Thoughts** Javascript is difficult to get working. I have a hard time because i dont really know how to debug yet, other than just looking at network calls. 
+
+**Link(s) to work:** https://github.com/pnadolny13/CodeViz/commits/master
