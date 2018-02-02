@@ -205,3 +205,12 @@ I had trouble getting my main to run in the rest service because I moved it to a
 **Thoughts** Javascript is difficult to get working. I have a hard time because i dont really know how to debug yet, other than just looking at network calls. 
 
 **Link(s) to work:** https://github.com/pnadolny13/CodeViz/commits/master
+
+
+### Day 23: February 01, 2018
+
+**Today's Progress**: Started playing with Angular in Flask, turns out they use the same syntax to receive variables in HTML. You can configure to change the syntax but I still wasnt able to use Jinja and Angular together. My JS worked but it never made the call to the BE python view to receive data. 
+
+**Thoughts** No real progress but messing around with Javascript and testing out how things work will probably help me understand it better.
+
+**Link(s) to work:** NA
