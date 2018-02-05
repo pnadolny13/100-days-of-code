@@ -214,3 +214,12 @@ I had trouble getting my main to run in the rest service because I moved it to a
 **Thoughts** No real progress but messing around with Javascript and testing out how things work will probably help me understand it better.
 
 **Link(s) to work:** NA
+
+
+### Day 24: February 05, 2018
+
+**Today's Progress**: sdf
+
+**Thoughts** asdf
+
+**Link(s) to work:** asd
