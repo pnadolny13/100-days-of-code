@@ -218,8 +218,8 @@ I had trouble getting my main to run in the rest service because I moved it to a
 
 ### Day 24: February 05, 2018
 
-**Today's Progress**: sdf
+**Today's Progress**: I got SQL Alchemy working to write some data to a database. I also spent a bunch of time debugging an error with the bootstrap base.html but it turns out i just had an extra app declaration which was messing it up. I missed the weekend but I spent some time reading the Java documents too.
 
-**Thoughts** asdf
+**Thoughts** SQL Alchemy is almost more confusing for me to use vs just making a simple MySQL and running queries on it. I think im used to doing it the hard was so its easy for me now, or I just dont fully understand Alchemy yet. I need to look up the advantage of using it, might be better to stick with a real DB. Also delete has a bug, its something to do with not closing.
 
-**Link(s) to work:** asd
+**Link(s) to work:** https://github.com/pnadolny13/FirstFlaskApp/commit/877c83b7e7b94c0384c368a88c596fa1fc7ce5d0
