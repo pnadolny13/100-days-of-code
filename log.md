@@ -223,3 +223,12 @@ I had trouble getting my main to run in the rest service because I moved it to a
 **Thoughts** SQL Alchemy is almost more confusing for me to use vs just making a simple MySQL and running queries on it. I think im used to doing it the hard was so its easy for me now, or I just dont fully understand Alchemy yet. I need to look up the advantage of using it, might be better to stick with a real DB. Also delete has a bug, its something to do with not closing.
 
 **Link(s) to work:** https://github.com/pnadolny13/FirstFlaskApp/commit/877c83b7e7b94c0384c368a88c596fa1fc7ce5d0
+
+
+### Day 25: February 06, 2018
+
+**Today's Progress**: I got a sample index.html and javascript file running on my apache server. I spent time with Javascript 30 but it made me realize I need to do more basic HTML/CSS/JS before doing my own apps. Code academy has 3 hr html, 11 hr css and 35 hrs JS. I need to complete them.
+
+**Thoughts** Learning is going to take a long time but I need to understand this stuff to have a better general knowledge.
+
+**Link(s) to work:** NA
