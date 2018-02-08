@@ -232,3 +232,12 @@ I had trouble getting my main to run in the rest service because I moved it to a
 **Thoughts** Learning is going to take a long time but I need to understand this stuff to have a better general knowledge.
 
 **Link(s) to work:** NA
+
+
+### Day 26: February 07, 2018
+
+**Today's Progress**: I did HTML training in code academy. I learned HTML fundamental structures ive used but never quite understood. I have a bear page. I also spent time continuing to read the Java documentation.
+
+**Thoughts** I should make a resume static website with all of the my deployed apps linked. I can practice with HTML.
+
+**Link(s) to work:** https://github.com/pnadolny13/HTML_Practice/commits/master
