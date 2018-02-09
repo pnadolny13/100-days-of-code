@@ -241,3 +241,12 @@ I had trouble getting my main to run in the rest service because I moved it to a
 **Thoughts** I should make a resume static website with all of the my deployed apps linked. I can practice with HTML.
 
 **Link(s) to work:** https://github.com/pnadolny13/HTML_Practice/commits/master
+
+
+### Day 27: February 08, 2018
+
+**Today's Progress**: I continued HTML/CSS code academy stuff. I created an html page with a table and made some custom CSS for it. 
+
+**Thoughts** Knowing more about HTML/CSS makes me want to go update the budget app so it is better. It will be much easier to customize once i understand how the templates are working.
+
+**Link(s) to work:** https://github.com/pnadolny13/HTML_Practice/commit/79198728a8c69dac055c027bc8540275c9de1a3e
