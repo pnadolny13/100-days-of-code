@@ -250,3 +250,12 @@ I had trouble getting my main to run in the rest service because I moved it to a
 **Thoughts** Knowing more about HTML/CSS makes me want to go update the budget app so it is better. It will be much easier to customize once i understand how the templates are working.
 
 **Link(s) to work:** https://github.com/pnadolny13/HTML_Practice/commit/79198728a8c69dac055c027bc8540275c9de1a3e
+
+
+### Day 28: February 11, 2018
+
+**Today's Progress**: I spent about 8 hours today. I did CSS training (75% done) then I was inspired to start working on my Django app again but I realized it was a mess. The code on the server was different than github which was different than my local. I ended up getting it all i sync, created a script to refresh and restart the uwsgi server, and added github webhooks to pull data every time a commit happens.
+
+**Thoughts** The website doesnt look any different but the operations under the hood are so much cleaner. I wont have to log into the server anymore when i make update....crazy auto deployments.
+
+**Link(s) to work:** https://github.com/pnadolny13/RestService/commit/18bc0ac04cd79812b068f32167fb7f21eadc2929 https://github.com/pnadolny13/BudgetDjangoApp/commit/24ef43505dfc514a3a3da51fde1a57a1a6c39aa2
