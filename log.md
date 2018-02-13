@@ -259,3 +259,12 @@ I had trouble getting my main to run in the rest service because I moved it to a
 **Thoughts** The website doesnt look any different but the operations under the hood are so much cleaner. I wont have to log into the server anymore when i make update....crazy auto deployments.
 
 **Link(s) to work:** https://github.com/pnadolny13/RestService/commit/18bc0ac04cd79812b068f32167fb7f21eadc2929 https://github.com/pnadolny13/BudgetDjangoApp/commit/24ef43505dfc514a3a3da51fde1a57a1a6c39aa2
+
+
+### Day 29: February 12, 2018
+
+**Today's Progress**: I did 30 mins of CSS training then started working on customizing the Django app. I created all new views and urls then messed with CSS for the rest of time. I think I need to just restart from scratch because its becoming really difficult to customize the template CSS. Somehow my local version was different than whats on AWS now. 
+
+**Thoughts** Customizing templates is really annoying. I got the hang of using the chrome dev tools for editing css which is helpful.
+
+**Link(s) to work:** https://github.com/pnadolny13/BudgetDjangoApp/commit/5d677baa2cf3e091113cdad088ab90994e9a714b
