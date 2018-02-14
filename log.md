@@ -268,3 +268,12 @@ I had trouble getting my main to run in the rest service because I moved it to a
 **Thoughts** Customizing templates is really annoying. I got the hang of using the chrome dev tools for editing css which is helpful.
 
 **Link(s) to work:** https://github.com/pnadolny13/BudgetDjangoApp/commit/5d677baa2cf3e091113cdad088ab90994e9a714b
+
+
+### Day 30: February 13, 2018
+
+**Today's Progress**: I added git integration for this app. Now in the github tab I pull the status of the 100-days-of-code dir. The user can see what is updated and chose to push using a button. The push functionality doesnt work yet but GitHub makes you sign in so it must be close. The GitPython API is really hard to work with and their are no examples online.
+
+**Thoughts** Git seems to have been made for Unix environments. There isnt a ton of support for Windows and things are harder. I had to add an Environment Variable so GitPython could find my git.exe file (GitPython's fault)
+
+**Link(s) to work:** https://github.com/pnadolny13/FirstFlaskApp/commit/e7b4d838a2bc635106be1183b3a2c59f18c557f8
