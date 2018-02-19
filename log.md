@@ -277,3 +277,21 @@ I had trouble getting my main to run in the rest service because I moved it to a
 **Thoughts** Git seems to have been made for Unix environments. There isnt a ton of support for Windows and things are harder. I had to add an Environment Variable so GitPython could find my git.exe file (GitPython's fault)
 
 **Link(s) to work:** https://github.com/pnadolny13/FirstFlaskApp/commit/e7b4d838a2bc635106be1183b3a2c59f18c557f8
+
+
+### Day 31: February 17, 2018
+
+**Today's Progress**: I worked on user authentication with little luck. Everything I tried ended up telling me the view didnt exist. I didnt end up getting it to work. 
+
+**Thoughts** Django is much more work to get working but seems to be more powerful.
+
+**Link(s) to work:** 
+
+
+### Day 32: February 18, 2018
+
+**Today's Progress**: I spent a lot of time getting the user authentication working. Now a user cant see any of the tracking/analyzing/etc pages until they login or create an account. I deployed it to AWS so people can make accounts if they want. Seemed like it needed to be locked down before I built out the functionality. I also updated the deployment scripts to not deploy the settings file because its specific to production so it should only be updated manually.
+
+**Thoughts** I now need to start working with the models and forms to input and receive data back.
+
+**Link(s) to work:** https://github.com/pnadolny13/BudgetDjangoApp
