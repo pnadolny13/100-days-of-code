@@ -295,3 +295,12 @@ I had trouble getting my main to run in the rest service because I moved it to a
 **Thoughts** I now need to start working with the models and forms to input and receive data back.
 
 **Link(s) to work:** https://github.com/pnadolny13/BudgetDjangoApp
+
+
+### Day 33: February 19, 2018
+
+**Today's Progress**: I added legit forms to my Django app. It validates the inputs before doing something. I now need to have it inserted into the db. Github desktop got all jacked up because the internet went out so i needed to manually upload the files to github.
+
+**Thoughts** I think it would be good to have the forms at the top and like the last 10 inputs below so you can tell that your input made it. 
+
+**Link(s) to work:** https://github.com/pnadolny13/BudgetDjangoApp/commit/b64af93cade9d2918c1ae5702b5db4592c1a137d
