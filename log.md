@@ -304,3 +304,12 @@ I had trouble getting my main to run in the rest service because I moved it to a
 **Thoughts** I think it would be good to have the forms at the top and like the last 10 inputs below so you can tell that your input made it. 
 
 **Link(s) to work:** https://github.com/pnadolny13/BudgetDjangoApp/commit/b64af93cade9d2918c1ae5702b5db4592c1a137d
+
+
+### Day 34: February 21, 2018
+
+**Today's Progress**: The budget app writes data to the DB and pulls the top ten rows to the track page so the user can see them. The CSS isnt good yet but it works and the users can see their custom inputs. 
+
+**Thoughts** The models are a bit hard to work with but I can see how it will make it easier vs running direct SQL once I get used to the query syntax.
+
+**Link(s) to work:** https://github.com/pnadolny13/BudgetDjangoApp/commit/2b6b7edfb279aa830b8d8d59677614db823ae258
