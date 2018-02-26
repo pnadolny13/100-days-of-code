@@ -313,3 +313,21 @@ I had trouble getting my main to run in the rest service because I moved it to a
 **Thoughts** The models are a bit hard to work with but I can see how it will make it easier vs running direct SQL once I get used to the query syntax.
 
 **Link(s) to work:** https://github.com/pnadolny13/BudgetDjangoApp/commit/2b6b7edfb279aa830b8d8d59677614db823ae258
+
+
+### Day 35: February 23, 2018
+
+**Today's Progress**: I spent time trying to get pandas table to be a nice html table with different packages but never really got it working. It just converts the df to html and sends to the template. 
+
+**Thoughts** None
+
+**Link(s) to work:** NA
+
+
+### Day 36: February 25, 2018
+
+**Today's Progress**: I integrated django-tables2 so the table feature shows up. You can filter and do other cool stuff but dont know how to pre-filter to only allow personal user data and 1 month. I also added categories as a drop down with options. I need to pass in the username to query for their categories. Also right now its hardcoded because the model choice field was displaying object names not values. Need to update AWS dependencies.
+
+**Thoughts** I need to update AWS dependencies. That should be part of the CI/CD pipeline.
+
+**Link(s) to work:** 
