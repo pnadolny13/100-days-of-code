@@ -331,3 +331,12 @@ I had trouble getting my main to run in the rest service because I moved it to a
 **Thoughts** I need to update AWS dependencies. That should be part of the CI/CD pipeline.
 
 **Link(s) to work:** 
+
+
+### Day 37: February 26, 2018
+
+**Today's Progress**: I got the forms category drop down to finally filter using the user name. So users can define categories as needed. Also the table uses django_tables2 but it cant filter/sort dynamically because I already filter for user and date. 
+
+**Thoughts** I need to expose the category additions. I also need to allow users to add and remove entries without having admin access.
+
+**Link(s) to work:** https://github.com/pnadolny13/BudgetDjangoApp/commit/8daf7cf377dc5ad73689f933606278c0be304304
