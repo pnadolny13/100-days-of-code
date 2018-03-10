@@ -340,3 +340,30 @@ I had trouble getting my main to run in the rest service because I moved it to a
 **Thoughts** I need to expose the category additions. I also need to allow users to add and remove entries without having admin access.
 
 **Link(s) to work:** https://github.com/pnadolny13/BudgetDjangoApp/commit/8daf7cf377dc5ad73689f933606278c0be304304
+
+
+### Day 38: February 27, 2018
+
+**Today's Progress**: I looked into getting analysis form to show sum data for a specific user and for specific month. 
+
+**Thoughts** I submitted this a few days late.
+
+**Link(s) to work:** NA
+
+
+### Day 39: March 9, 2018
+
+**Today's Progress**: I created a simple Angular seed app to see how they work. It seems a lot like django but just JS instead and its a bit of a mind shift to put everything on the front end.
+
+**Thoughts** I need to dig into JS in order to build out that app further. 
+
+**Link(s) to work:** 
+
+
+### Day 40: March 10, 2018
+
+**Today's Progress**: I updated the Budget app to pull sum of monthly data with percentages. It also allows you to select the month you want to analyze in case you want to look back or anything. I also looked into pulling data from bank APIs similar to Mint app. One main way is through a paid API called Yodlee but $250 a month is too much for me.
+
+**Thoughts** 
+
+**Link(s) to work:** https://github.com/pnadolny13/BudgetDjangoApp/commit/c7b53fdda92ea15e36c686038ce7276fe2e84df9
