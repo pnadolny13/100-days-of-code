@@ -364,6 +364,16 @@ I had trouble getting my main to run in the rest service because I moved it to a
 
 **Today's Progress**: I updated the Budget app to pull sum of monthly data with percentages. It also allows you to select the month you want to analyze in case you want to look back or anything. I also looked into pulling data from bank APIs similar to Mint app. One main way is through a paid API called Yodlee but $250 a month is too much for me.
 
-**Thoughts** 
+**Thoughts** None
 
 **Link(s) to work:** https://github.com/pnadolny13/BudgetDjangoApp/commit/c7b53fdda92ea15e36c686038ce7276fe2e84df9
+
+
+### Day 41: March 11, 2018
+
+**Today's Progress**: Budget App - I updated the table CSS in analyze to look better and added functionality for income and monthly totals as well. Every user now has an income category. I need to add checks for when a user hasnt entered an income, it just throws and error now.
+AWS - troubleshooted the server not working. I forgot to push the new forms updates. I figured out how to troubleshoot though.
+
+**Thoughts** None
+
+**Link(s) to work:** https://github.com/pnadolny13/BudgetDjangoApp/commit/14b743775b67c8e9dc097c2097e3334ebbae3af2
