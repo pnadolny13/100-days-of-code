@@ -377,3 +377,12 @@ AWS - troubleshooted the server not working. I forgot to push the new forms upda
 **Thoughts** None
 
 **Link(s) to work:** https://github.com/pnadolny13/BudgetDjangoApp/commit/14b743775b67c8e9dc097c2097e3334ebbae3af2
+
+
+### Day 42: March 13, 2018
+
+**Today's Progress**: I updated the links on the home page as a temporary fix for the nav bar not working on mobiles. I customized some margins trying to find a place to put a delete functionality...still thinking. I spent a lot of time thinking about how to query and organize the data that will be populating the monthly custom table with breakdown by category. I think i have a good approach by transposing each category list by week. I cant get the elements out of the model object yet though. 
+
+**Thoughts** I still have issues with the model objects and how to retrieve data. I need to work on python fundamentals. I would expect to use a getter/setter but i think thats specific to java.
+
+**Link(s) to work:** 
