@@ -386,3 +386,12 @@ AWS - troubleshooted the server not working. I forgot to push the new forms upda
 **Thoughts** I still have issues with the model objects and how to retrieve data. I need to work on python fundamentals. I would expect to use a getter/setter but i think thats specific to java.
 
 **Link(s) to work:** 
+
+
+### Day 43: March 15, 2018
+
+**Today's Progress**: I worked this morning on getting the analyze data structure (list of lists) to work properly and pivot like I needed. It finally showed up. I had issues because AWS has python 2.7 but my local is 3.6 so I need to fix that somehow. Current work around is to include try except so it works in both. At night I removed None values from the table, added headers, added filter functionality, and fixed the bug for when a month has no values.
+
+**Thoughts** There seems like there is a better way to structure the list of lists to simplify but I couldnt find one. 
+
+**Link(s) to work:** https://github.com/pnadolny13/BudgetDjangoApp/commit/4345639b96faf3fa0e09585849b2118c48aa63f2
