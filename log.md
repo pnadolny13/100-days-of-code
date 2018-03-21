@@ -395,3 +395,38 @@ AWS - troubleshooted the server not working. I forgot to push the new forms upda
 **Thoughts** There seems like there is a better way to structure the list of lists to simplify but I couldnt find one. 
 
 **Link(s) to work:** https://github.com/pnadolny13/BudgetDjangoApp/commit/4345639b96faf3fa0e09585849b2118c48aa63f2
+
+
+### Day 44: March 16, 2018
+
+**Today's Progress**: I didnt do a whole hour but I fixed a bug with the budget app, the categories cant be added together like I had them but I never noticed because I always signed in as admin.
+
+**Thoughts** NA
+**Link(s) to work:** https://github.com/pnadolny13/BudgetDjangoApp/commit/8ea8bd2556e0f7f52723459ca0fbbf50a54f6365
+
+
+### Day 45: March 17, 2018
+
+**Today's Progress**: Started working on getting the merged week column in the analyze table so it is obvious why the data is split up and some has nulls. I wasnt able to get it fully working but I learned about index.count in Jinja templates.
+
+**Thoughts** NA
+
+**Link(s) to work:** NA
+
+
+### Day 46: March 19, 2018
+
+**Today's Progress**: I studied Java concepts and brushed up on what I've done with it so far. How to create a quick CRUD app. I've done it in python but not a full one in Java.
+
+**Thoughts** NA
+
+**Link(s) to work:** NA
+
+
+### Day 47: March 20, 2018
+
+**Today's Progress**: I read a ton of the Java study guide documentation and explored rest service frameworks in Java. Practiced non IDE java coding and simple things like finding largest value in a list. Basic fundemetals review.
+
+**Thoughts** Need to fix the python version issue and home page text links if user isnt logged in.
+
+**Link(s) to work:** NA
